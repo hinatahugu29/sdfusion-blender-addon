@@ -1,4 +1,4 @@
-# SDFusion
+SDFusion
 
 ![Blender Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png)  
 An intuitive toolkit for SDF-like, non-destructive boolean modeling, and mirror operations. This addon helps you manage complex boolean setups with a simple layer-based workflow, from rapid prototyping to final mesh generation.

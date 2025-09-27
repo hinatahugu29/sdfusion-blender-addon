@@ -13,5 +13,12 @@ Other aspects remain unconfirmed. Since it's a basic modifier-based system, it m
 
 ### Installing Asset Files.
 1. With SDFusion installed, check Preferences > Add-ons > SDFusion.
-![Image_2](images/スクリーンショット 2025-09-27 102447.png)
+![Image_2](images/6 ページ.png)
+![Image_2](images/スクリーンショット 2025-09-27 212159.png)
+    - Asset Zip : ex.) Cutter_asset_1_9_5_20250925_2.zip
+    - Install Locaton : Any folder for storing assets.
+
 2. Check in Blender's Asset Browser
+![Image_3](images/スクリーンショット 2025-09-27 212938.png)
+
+ <span style="font-size: 20px;">Next : [How to Use](how_to_use.md)</span>
