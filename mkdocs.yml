@@ -5,4 +5,4 @@ nav:
   - Home: index.md
   - Installation: installation.md  # これでOK
   - Gallery: gallery.md
-  - Movies: movies.md
+  #- Movies: movies.md
