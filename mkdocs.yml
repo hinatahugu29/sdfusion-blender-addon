@@ -1,8 +1,6 @@
 site_name: SDFusion Blender Addon Documentation
 site_url: https://sdfusion-blender-addon.readthedocs.io/
 
-theme:
-  name: material  # 美しいUI（pip install mkdocs-materialでインストール）
 nav:
   - Home: index.md
   - Installation: installation.md  # これでOK
