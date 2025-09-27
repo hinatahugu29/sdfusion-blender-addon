@@ -1,5 +1,13 @@
-# Welcome to SDFusion
+# SDFusion : Non-Destructive Boolean Modeling Toolkit
 
-For full documentation visit [SuperhiveMarket](https://superhivemarket.com/products/sdfusion/?ref=1435)
+Product Pages : [SuperhiveMarket](https://superhivemarket.com/products/sdfusion/?ref=1435)
 
-about SDFusion
+## About SDFusion.
+**SDFusion** is an add-on that easily achieves non-destructive Boolean operations like SDF (Signed Distance Field) in Blender. It streamlines complex modeling with layer management and also supports mirroring and asset integration.
+
+## Why SDFusion?
+- **Layer-based workflow**: Stack Booleans with ADD/SUB layers for non-destructive adjustments.
+- **Live controls**: Adjust Voxel Size and Smooth in real time.
+- **Finalize feature**: Generate final meshes with batch application and cleanup.
+- Compatible with Blender 4.5+
+
