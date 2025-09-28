@@ -52,10 +52,20 @@ At this stage, nothing is finalized, so moving the cylindrical wireframe will sh
 ![Image_2](images/スクリーンショット 2025-09-27 221026.png)Thus, this add-on aims to display the stack of Boolean modifiers as layers, making it easier to process additions and subtractions hierarchically.<br><br>
 5. Alright, let's make some visual adjustments.
 ### Adjusting Voxel Remesh Size and Smoothing.
-![Image_2](images/image1-8824.png)
+![Image_2](images/image1-8824.png)<br>
+6. Next,Let's open the Finalize tab.<br>
+![Image_2](images/image7-88245.png)
+![Image_2](images/スクリーンショット 2025-09-28 163533.png)<br>
+7. Other Features.
 
+- Add Layer: Add a Boolean hierarchy. It is designed to add ADD and SUB as a pair.<br>
+Here's what it looks like after pressing once. You can see that ADD and SUB have been added both within the panel and in the outliner.
+![Image_2](images/スクリーンショット 2025-09-28 235515.png)<br>
+This enables modeling using even deeper layers.<br>
+- Location and Rotation Management.
+![alt text](images/スクリーンショット 2025-09-28 235850.png)<br>
+We've temporarily discontinued the Mirror Modifier settings and instead incorporated them into the Transform-related options. We believe this will allow for more intuitive adjustments to rotation and movement.
 
-6.
 
 
 
