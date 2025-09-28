@@ -1,5 +1,11 @@
 site_name: SDFusion Blender Addon Documentation
 site_url: https://sdfusion-blender-addon.readthedocs.io/
+ 
+markdown_extensions:
+  - attr_list      # 属性リスト有効化
+  - md_in_html     # HTML内Markdown有効化
+  - pymdownx.blocks.caption  # キャプション用
+
 
 nav:
   - Home: index.md
