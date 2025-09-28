@@ -6,4 +6,4 @@ nav:
   - Installation: installation.md  # これでOK
   - How to Use: how_to_use.md
   - Gallery: gallery.md
-  #- Movies: movies.md
+  - Movies: movies.md

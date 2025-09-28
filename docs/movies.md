@@ -1,5 +1,6 @@
 # Sample Movies : Youtube TikTok : Short & Long
+Here, we introduce some of the videos we've been collecting so far.<br>
+To view all videos, please visit YouTube or TikTok.<br>
 
-## チュートリアル動画
+## Sample Movie : Video showing the general flow.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Euoogldg0aI" title="SDFusion Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

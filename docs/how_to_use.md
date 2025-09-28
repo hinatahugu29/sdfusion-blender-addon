@@ -51,9 +51,11 @@ At this stage, nothing is finalized, so moving the cylindrical wireframe will sh
 4. Let's change the cube layer from ADD-1 to ADD-2.
 ![Image_2](images/スクリーンショット 2025-09-27 221026.png)Thus, this add-on aims to display the stack of Boolean modifiers as layers, making it easier to process additions and subtractions hierarchically.<br><br>
 5. Alright, let's make some visual adjustments.
+### Adjusting Voxel Remesh Size and Smoothing.
+![Image_2](images/image1-8824.png)
 
-From here, you can branch off into several options.
 
+6.
 
 
 

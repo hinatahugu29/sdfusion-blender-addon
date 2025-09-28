@@ -16,4 +16,4 @@ Product Pages : [SuperhiveMarket](https://superhivemarket.com/products/sdfusion/
  ![Image_2](images/Untitled58.png)
 
  
- <span style="font-size: 20px;">Next : [Install](installation.md)</span>
+ <span style="font-size: 20px;">Next : [Install](installation.md) ,  Other [How to Use](how_to_use.md) , [Gallery](gallery.md)</span>
