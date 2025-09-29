@@ -64,9 +64,9 @@ Here's what it looks like after pressing once. You can see that ADD and SUB have
 This enables modeling using even deeper layers.<br>
 - Location and Rotation Management.
 ![alt text](images/スクリーンショット 2025-09-28 235850.png)<br>
-We've temporarily discontinued the Mirror Modifier settings and instead incorporated them into the Transform-related options. We believe this will allow for more intuitive adjustments to rotation and movement.
+We've temporarily discontinued the Mirror Modifier settings and instead incorporated them into the Transform-related options. We believe this will allow for more intuitive adjustments to rotation and movement.<br>
 
-
+- For add-ons that are useful when used together with others, please also refer to [Other](other.md).
 
 
 <span style="font-size: 20px;">Next : [Gallery](gallery.md)</span>
