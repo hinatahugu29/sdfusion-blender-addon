@@ -69,4 +69,4 @@ We've temporarily discontinued the Mirror Modifier settings and instead incorpor
 
 
 
-<span style="font-size: 20px;">Next : [Install](installation.md)</span>
+<span style="font-size: 20px;">Next : [Gallery](gallery.md)</span>

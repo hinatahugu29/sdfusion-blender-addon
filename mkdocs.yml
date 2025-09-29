@@ -1,8 +1,6 @@
 site_name: SDFusion Blender Addon Documentation
 site_url: https://sdfusion-blender-addon.readthedocs.io/
 
-
-
 nav:
   - Home: index.md
   - Installation: installation.md  # これでOK
@@ -10,3 +8,4 @@ nav:
   - Gallery: gallery.md
   - Movies: movies.md
   
+
