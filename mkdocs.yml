@@ -5,8 +5,8 @@ nav:
   - Home: index.md
   - Installation: installation.md  # これでOK
   - How to Use: how_to_use.md
+  - About Layers: about_layers.md
   - Gallery: gallery.md
   - Movies: movies.md
-  - other: other.md
-  
+  - other: other.md 
 
