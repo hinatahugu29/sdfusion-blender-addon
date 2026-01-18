@@ -24,4 +24,4 @@ This add-on makes it easy to create things like this:
 
 ---
 
-<span style="font-size: 20px;">Next : [Install](installation.md) ,  Other [How to Use](how_to_use.md) , [Gallery](gallery.md)</span>
+<span style="font-size: 20px;">Next : [Install](installation.md) | [How to Use](how_to_use.md) | [Gallery](gallery.md) | [Collection Walker](collection_walker.md)</span>
